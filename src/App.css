@@ -1,0 +1,15 @@
+.uploadimage {
+  width: 10cm;
+  height: 12cm;
+}
+
+.click {
+  cursor: pointer;
+  padding: 2rem;
+}
+
+.disabled {
+  cursor: not-allowed;
+  pointer-events: none;
+  opacity: 0.5;
+}
