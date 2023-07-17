@@ -58,7 +58,7 @@ function Fileupload() {
                         <h3>React File Upload</h3>
                         <div className="form-group mt-3">
                             <div className=''>
-                             xsxsxs
+                            
                             </div>
                             <label htmlFor="file" className= {loading ? 'disabled form-label' :'form-label'}>
                                 <img className='click' src="https://png.pngtree.com/element_our/20190601/ourmid/pngtree-upload-icon-image_1347930.jpg" alt="upload image" />
